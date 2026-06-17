@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        IMAGE_NAME="vishravi1975/nodejs-demo-app"
+        IMAGE_NAME="2342115/nodejs-demo-app"
         IMAGE_TAG="v1"
     }
     stages {
